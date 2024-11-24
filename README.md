@@ -1,1 +1,1 @@
-#Mathable score calculator
+Mathable score calculator
